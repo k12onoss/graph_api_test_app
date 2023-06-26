@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688126612895",
+    "project_id": "graph-api-test-app",
+    "storage_bucket": "graph-api-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688126612895:android:53a36cc90cf4a4844699aa",
+        "android_client_info": {
+          "package_name": "app.k12onos.graph_api_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688126612895-jj6vduf2hnfdvdupj0po9efb85fcdjrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5wYOxMI7rgkxl57JHT7Qeh-I3YYeAvMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688126612895-jj6vduf2hnfdvdupj0po9efb85fcdjrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

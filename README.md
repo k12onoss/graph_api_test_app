@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Facebook login.
+- Fetching data using Instagram's Graph API.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/k12onoss/graph_api_test_app/blob/main/screenshots/login.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/graph_api_test_app/blob/main/screenshots/home.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/graph_api_test_app/blob/main/screenshots/profile.png?raw=true" width="49%"> <img src="https://github.com/k12onoss/medimate/blob/main/screenshots/posts.png?raw=true" width="49%">

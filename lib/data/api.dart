@@ -111,15 +111,3 @@ class FacebookAPI {
     await fb.logOut();
   }
 }
-
-// {
-//   status: success,
-//   accessToken: FacebookAccessToken(
-//     token: EAAS2nCglal4BABVDKGpKyz0k5QEKbeFl3td2QmhKzYablaqNaR94JkrACP5l8Ot3aIbNYeozHmbc79KxtDPNN0Elx8NNcJhbiC5BQlDvvsiOs8BZBRd63aBZCHysUuuj5YYeL6h4cuD6s1gZAPRl07aWekfIS2nwsU6MP8UlqQZBED3uSTZBcMBPdkNeTFyd7umjUZA4PZB855mF0oQHOFJBGzO87gZAm2sZD,
-//     userId: 100691043080918,
-//     expires: 2023-08-22 13:12:13.103Z,
-//     permissions: [openid, public_profile, pages_show_list, instagram_basic],
-//     declinedPermissions: [],
-//   ),
-//   error: null
-// }
